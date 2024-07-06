@@ -1,0 +1,16 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+"D2","S2744-09","HAMAMATSU_S2744-09",12.8600,8.7500,-90.0000,top
+"J1","HEADER_2x01_PARALLEL","Straight_1x02",86.2330,25.9080,90.0000,top
+"J2","HEADER_2x01_PARALLEL","Straight_1x02",86.2330,28.4480,90.0000,top
+"J3","HEADER_2x01_PARALLEL","Straight_1x02",86.2330,23.3680,90.0000,top
+"J4","HEADER_1x01","Straight_1x01",87.5030,33.5280,0.0000,top
+"J5","HEADER_1x01","Straight_1x01",87.5030,36.0680,0.0000,top
+"J6","HEADER_1x01","Straight_1x01",84.9630,33.5280,0.0000,top
+"J7","HEADER_1x01","Straight_1x01",84.9630,36.0680,0.0000,top
+"J19","HEADER_2x01_PARALLEL","Straight_2x01",86.2330,30.9880,0.0000,top
+"J22","HEADER_2x03","Straight_2x03",52.0700,24.7650,-90.0000,top
+"M1","HOLE","MountingHole_3mm",86.3600,5.0800,0.0000,top
+"M2","HOLE","MountingHole_3mm",86.3600,45.7200,0.0000,top
+"M3","HOLE","MountingHole_3mm",5.0800,45.7200,0.0000,top
+"M4","HOLE","MountingHole_3mm",5.0800,5.0800,0.0000,top
+"Y1","16MHz","Crystal_HC49-U_Vertical",52.8320,34.5440,0.0000,top
