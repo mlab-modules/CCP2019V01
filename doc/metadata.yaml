@@ -1,5 +1,6 @@
 description: CCP2019V01A
 github_branch: CCP2019V01A
+github_description: CCP2019V01A
 github_repo: CCP2019V01
 github_url: https://github.com/mlab-modules/CCP2019V01
 homepage: false
@@ -11,3 +12,4 @@ tags:
 - mlab
 - mlab-module
 title: CCP2019V01
+updated: '2024-07-06T21:18:42.914635+00:00'
