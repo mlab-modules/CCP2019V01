@@ -18,7 +18,7 @@ images:
 mark: 50
 mod_ibom: hw/cam_profi/CCP2019V01-ibom.html
 mod_scheme: doc/gen/CCP2019V01-schematic.pdf
-status: 0
+status: 4
 tags:
 - mlab
 - mlab-module
