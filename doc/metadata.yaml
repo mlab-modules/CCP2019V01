@@ -5,16 +5,16 @@ github_repo: CCP2019V01
 github_url: https://github.com/mlab-modules/CCP2019V01
 homepage: false
 images:
-- doc/gen/img/CCP2019V01-top.png
-- doc/gen/img/CCP2019V01-bottom.png
 - doc/img/CCP2019V01A_QRcode.png
-- doc/gen/CCP2019V01-power.svg
+- doc/gen/img/CCP2019V01-bottom.png
+- doc/gen/img/CCP2019V01-top.png
 - doc/gen/CCP2019V01-schematic.svg
 - doc/gen/CCP2019V01-cpu.svg
+- doc/gen/CCP2019V01-power.svg
 - doc/gen/img/CCP2019V01-bottom.svg
 - doc/gen/img/CCP2019V01-top.svg
-- hw/cam_profi/assembly/CCP2019V01-assembly_page_02.svg
 - hw/cam_profi/assembly/CCP2019V01-assembly_page_01.svg
+- hw/cam_profi/assembly/CCP2019V01-assembly_page_02.svg
 mark: 50
 mod_ibom: hw/cam_profi/CCP2019V01-ibom.html
 mod_scheme: doc/gen/CCP2019V01-schematic.pdf
@@ -23,4 +23,4 @@ tags:
 - mlab
 - mlab-module
 title: CCP2019V01
-updated: '2024-07-06T21:24:36.368045+00:00'
+updated: '2026-02-14T23:02:21.556668+00:00'
